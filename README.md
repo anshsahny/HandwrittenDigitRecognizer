@@ -1,2 +1,2 @@
 # HandwrittenDigitRecognizer
-This is a Handwritten Digit Recognizer developed in Python using Tensorflow, Keras, Numpy libraries as well as the Tkinter library for building the GUI
+This is a Handwritten Digit Recognizer developed in Python using Tensorflow, Keras, Numpy libraries as well as the Tkinter library for building the GUI. Keras and Tensorflow were used to create a simple CNN for MNIST that uses all of the aspects of a modern CNN implementation, including Convolutional layers, Pooling layers and Dropout layers. The user can draw any digit from 0 to 9 and click on "Predict the Digit" to see what the digit is and how it accurate the prediction is.
